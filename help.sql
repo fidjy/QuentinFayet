@@ -2,6 +2,7 @@
 -- version 4.9.2
 -- https://www.phpmyadmin.net/
 --
+-- Hôte : 127.0.0.1:3307
 -- Généré le :  lun. 10 fév. 2020 à 09:45
 -- Version du serveur :  10.4.10-MariaDB
 -- Version de PHP :  7.4.1
